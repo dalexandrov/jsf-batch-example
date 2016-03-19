@@ -10,7 +10,8 @@ import javax.persistence.PersistenceContext;
 import java.util.List;
 
 /**
- * Created by mitia on 18.03.16.
+ * Created by dalexandrov on 18.03.16.
+ * Credits to Arun Gupta
  */
 @Named
 public class BigBangWriter extends AbstractItemWriter {

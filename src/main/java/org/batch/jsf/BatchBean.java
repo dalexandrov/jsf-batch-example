@@ -30,6 +30,10 @@ import javax.inject.Named;
 import java.util.List;
 import java.util.Properties;
 
+
+/**
+ * Created by dalexandrov on 18.03.16.
+ */
 @RequestScoped
 @Named
 public class BatchBean {

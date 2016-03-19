@@ -1,9 +1,8 @@
 package org.batch.model;
 
 /**
- * Created by mitia on 18.03.16.
+ * Created by dalexandrov on 18.03.16.
  */
-
 public class Person {
 
     private String name;

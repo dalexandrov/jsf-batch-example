@@ -10,7 +10,9 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- * Created by mitia on 18.03.16.
+ * Created by dalexandrov on 18.03.16.
+ * Credits to Arun Gupta
+ *
  */
 @Named
 public class BigBangReader extends AbstractItemReader {

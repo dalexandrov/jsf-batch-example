@@ -9,7 +9,8 @@ import java.text.SimpleDateFormat;
 import java.util.StringTokenizer;
 
 /**
- * Created by mitia on 18.03.16.
+ * Created by dalexandrov on 18.03.16.
+ * Credits to Arun Gupta
  */
 @Named
 public class BigBangProcessor implements ItemProcessor {
